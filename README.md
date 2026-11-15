@@ -21,7 +21,7 @@ Workflow GitHub Actions yang menjalankan **Windows Server** di runner GitHub, la
 
 ## ✨ Fitur
 
-- 🪟 **Pilih versi Windows**: Server 2019, 2022, atau 2025
+- 🪟 **Pilih versi Windows**: Server latest, 2025, dan 2022
 - 👤 **Username dan password sendiri**, diisi saat menjalankan workflow (minimal 6 karakter)
 - ⏱️ **Pilih durasi 1–6 jam** dengan **auto-stop**, sehingga job berhenti otomatis saat waktunya habis
 - 🔐 **Akses melalui Tailscale**, tanpa perlu IP publik atau port forwarding
