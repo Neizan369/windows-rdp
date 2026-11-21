@@ -9,6 +9,7 @@ on:
         default: "windows-latest"
         type: choice
         options:
+          - tiny11
           - windows-latest
           - windows-2025
           - windows-2022
